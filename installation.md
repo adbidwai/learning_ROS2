@@ -1,6 +1,6 @@
 
 
-Run the install.sh file using superuser priveleges using </br>
+Run the install.sh file using superuser privileges using </br>
 `sudo ./install.sh`
 
 source ROS2 Foxy Fritzoy's setup file using </br>
